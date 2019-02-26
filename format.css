@@ -5,11 +5,6 @@ img{
 	width: 100%;	
 }
 
-/* The content div soround
-  * every thing in the body
-  * The css make content  smaller than the body itself
-  * and centret.
-  */
 #content {
 	width: 75%;
 	margin: auto;
@@ -38,9 +33,8 @@ img{
 #ledOffButton{
 	width: 100%;
 }
-#receiveDiv{
-	{
+#receiveDiv{	
  font-size: 7;
 }
-}
+
 
